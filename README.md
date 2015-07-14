@@ -16,3 +16,5 @@ $ touch README
 # Creates a file called "README" in your Myfirst-Repo directory
 
 some crap some more crap
+
+This be crazy son!
